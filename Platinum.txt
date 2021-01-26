@@ -1,0 +1,95 @@
+Torterra grass ground
+Infernape fire fighting
+Empoleon water steel
+Staraptor normal flying
+Bibarel normal water
+Kricketune bug
+Luxray electric
+Alakazam psychic
+Gyarados water flying
+Roserade grass poison
+Crobat poison flying
+Golem rock ground
+Steelix steel ground
+Rampardos rock
+Bastiodon rock steel
+Machamp fighting
+Golduck water
+Wormadam bug grass
+Mothim bug flying
+Beautifly bug flying
+Dustox bug poison
+Vespiquen bug flying
+Pachirisu electric
+Floatzel water
+Cherrim grass
+Gastrodon water ground
+Heracross bug fighting
+Ambipom normal
+Drifblim ghost flying
+Lopuny normal
+Gengar ghost poison
+Mismagius ghost
+Honchkrow dark flying
+Purugly normal
+Seaking water
+Wishcash water ground
+Chimecho psychic
+Skuntank poison dark
+Medicham fighting psychic
+Bronzong steel psychic
+Rapidash fire
+Sudowoodo rock
+Mr.Mime psychic
+Blissey normal
+Clefable normal
+Chatot normal flying
+Raichu electric
+Noctowl normal flying
+Spiritomb ghost dark
+Garchomp dragon ground
+Snorlax normal
+Lucario fighting steel
+Quagsire water ground
+Pelipper water flying
+Girafarig normal psychic
+Hippowdon ground
+Azumarill water
+Drapion poison dark
+Toxicroak poison fighting
+Carnivine grass
+Octillery water
+Lumineon water
+Tentacruel water poison
+Milotic water
+Mantine water flying
+Abomasnow ice grass
+Weavile dark ice
+Gliscor ground flying
+Probopass rock steel
+Gardevoir psychic
+Gallade psychic fighting
+Lickilicky normal
+Vaporeon water
+Jolteon electric
+Flareon fire
+Espeon psychic
+Umbreon dark
+Leafeon grass
+Glaceon ice
+Altaria dragon flying
+Togekiss normal flying
+Houndoom dark fire
+Magnezone electric steel
+Tangrowth grass
+Yanmega bug flying
+Tropius grass flying
+Rhyperior ground rock
+Dusknoir ghost
+Porygon-Z normal
+Scizor bug steel
+Electivire electric
+Magmortar fire
+Mamoswine ice ground
+Froslass ice ghost
+Absol dark

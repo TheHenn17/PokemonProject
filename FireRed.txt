@@ -1,0 +1,75 @@
+Venusaur grass poison
+Charizard fire flying
+Blastoise water
+Butterfree bug flying
+Beedrill bug poison
+Pidgeot normal flying
+Raticate normal
+Fearow normal flying
+Arbok poison
+Raichu electric
+Sandslash ground
+Nidoqueen poison ground
+Nidoking poison ground
+Clefable normal
+Ninetales fire
+Wigglytuff normal
+Crobat poison flying
+Vileplume grass poison
+Parasect bug grass
+Venomoth bug poison
+Dugtrio ground
+Persian normal
+Golduck water
+Primeape fighting
+Arcanine fire
+Poliwrath water fighting
+Alakazam psychic
+Machamp fighting
+Victreebel grass poison
+Tentacruel water poison
+Golem rock ground
+Rapidash fire
+Slowbro psychic water
+Magneton steel electric
+Farfetch'd normal flying
+Dodrio normal flying
+Dewgong water ice
+Muk poison
+Cloyster water ice
+Gengar poison ghost
+Onix rock ground
+Hypno psychic
+Kingler water
+Electrode electric
+Exeggutor grass psychic
+Marowak ground
+Hitmonlee fighting
+Hitmonchan fighting
+Lickitung normal
+Weezing poison
+Rhydon rock ground
+Chansey normal
+Tangela grass
+Kangaskhan normal
+Kingdra water dragon
+Seaking water
+Starmie water psychic
+Mr.Mime psychic
+Scyther bug flying
+Jynx psychic ice
+Electabuzz electric
+Magmar fire
+Pinsir bug
+Tauros normal
+Gyarados water flying
+Lapras water ice
+Vaporeon water
+Jolteon electric
+Flareon fire
+Porygon2 normal
+Omastar water rock
+Kabutops water rock
+Aerodactyl rock flying
+Snorlax normal
+Dragonite dragon flying

@@ -1,0 +1,18 @@
+Power levels cap at 17
+The teams listed below have a Power level of: 17
+
+Team Option 1:
+Swampert / Whiscash
+Pelipper / Gyarados
+Breloom
+Magneton
+Banette / Dusclops
+Walrein
+
+Team Option 2:
+Swampert / Whiscash
+Pelipper / Gyarados
+Hariyama / Machamp
+Magneton
+Banette / Dusclops
+Glalie
