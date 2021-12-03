@@ -1,18 +1,1050 @@
-Power levels cap at 17
-The teams listed below have a Power level of: 17
+Power levels cap at 30
+The teams listed below have a Power level of: 29
 
 Team Option 1:
-Swampert / Whiscash
-Pelipper / Gyarados
-Breloom
-Magneton
-Banette / Dusclops
-Walrein
+Flygon
+Venusaur / Vileplume / Victreebel / Roserade
+Omastar / Kabutops
+Feraligatr / Sharpedo / Crawdaunt
+Mawile
+Gliscor
 
 Team Option 2:
-Swampert / Whiscash
-Pelipper / Gyarados
-Hariyama / Machamp
-Magneton
-Banette / Dusclops
-Glalie
+Flygon
+Venusaur / Vileplume / Victreebel / Roserade
+Omastar / Kabutops
+Feraligatr / Sharpedo / Crawdaunt
+Metagross / Bronzong
+Gliscor
+
+Team Option 3:
+Flygon
+Blastoise / Kingler / Vaporeon / Politoad / Wailord / Floatzel
+Mr.Mime / Gardevoir
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 4:
+Flygon
+Blastoise / Kingler / Vaporeon / Politoad / Wailord / Floatzel
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Mismagius
+Gliscor
+
+Team Option 5:
+Flygon
+Nidoqueen / Nidoking
+Mr.Mime / Gardevoir
+Gyarados
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+
+Team Option 6:
+Flygon
+Nidoqueen / Nidoking
+Gyarados
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Mismagius
+
+Team Option 7:
+Flygon
+Nidoqueen / Nidoking
+Gyarados
+Azumarill / Milotic
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+
+Team Option 8:
+Flygon
+Clefable / Granbull
+Golduck / Slowbro / Starmie / Slowking
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 9:
+Flygon
+Clefable / Granbull
+Tentacruel
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 10:
+Flygon
+Clefable / Granbull
+Gengar
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 11:
+Flygon
+Ninetales
+Gyarados
+Steelix
+Breloom
+Aggron / Bastiodon / Probopass
+
+Team Option 12:
+Flygon
+Ninetales
+Omastar / Kabutops
+Breloom
+Mawile
+Gliscor
+
+Team Option 13:
+Flygon
+Ninetales
+Omastar / Kabutops
+Breloom
+Empoleon
+Gliscor
+
+Team Option 14:
+Flygon
+Ninetales
+Aerodactyl
+Torterra
+Empoleon
+Lucario
+
+Team Option 15:
+Flygon
+Ninetales
+Crobat
+Breloom
+Aggron / Bastiodon / Probopass
+Empoleon
+
+Team Option 16:
+Flygon
+Ninetales
+Crobat
+Aggron / Bastiodon / Probopass
+Torterra
+Empoleon
+
+Team Option 17:
+Flygon
+Ninetales
+Shiftry / Cacturn
+Aggron / Bastiodon / Probopass
+Empoleon
+Gliscor
+
+Team Option 18:
+Flygon
+Ninetales
+Breloom
+Aggron / Bastiodon / Probopass
+Empoleon
+Honchkrow
+
+Team Option 19:
+Flygon
+Ninetales
+Breloom
+Aggron / Bastiodon / Probopass
+Empoleon
+Gliscor
+
+Team Option 20:
+Flygon
+Ninetales
+Aggron / Bastiodon / Probopass
+Torterra
+Empoleon
+Honchkrow
+
+Team Option 21:
+Flygon
+Wigglytuff
+Golduck / Slowbro / Starmie / Slowking
+Crobat
+Aggron / Bastiodon / Probopass
+Electivire
+
+Team Option 22:
+Flygon
+Wigglytuff
+Golduck / Slowbro / Starmie / Slowking
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 23:
+Flygon
+Wigglytuff
+Poliwrath
+Aerodactyl
+Camerupt
+Metagross / Bronzong
+
+Team Option 24:
+Flygon
+Wigglytuff
+Tentacruel
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 25:
+Flygon
+Wigglytuff
+Tentacruel
+Sableye / Spiritomb
+Metagross / Bronzong
+Gliscor
+
+Team Option 26:
+Flygon
+Wigglytuff
+Gengar
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 27:
+Flygon
+Wigglytuff
+Gengar
+Feraligatr / Sharpedo / Crawdaunt
+Metagross / Bronzong
+Gliscor
+
+Team Option 28:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Crobat
+Mawile
+Electivire
+
+Team Option 29:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Crobat
+Aggron / Bastiodon / Probopass
+Electivire
+
+Team Option 30:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Mawile
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 31:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 32:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Aerodactyl
+Swampert / Gastrodon
+Mawile
+Seviper / Skuntank / Drapion
+
+Team Option 33:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Aerodactyl
+Mawile
+Camerupt
+Lopunny
+
+Team Option 34:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Crobat
+Tyranitar
+Swampert / Gastrodon
+Mawile
+
+Team Option 35:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Crobat
+Swampert / Gastrodon
+Mawile
+Luxray
+
+Team Option 36:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Crobat
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Luxray
+
+Team Option 37:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 38:
+Flygon
+Golduck / Slowbro / Starmie / Slowking
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Togekiss
+
+Team Option 39:
+Flygon
+Arcanine / Flareon / Typhlosion / Torkoal / Magmortar
+Omastar / Kabutops
+Breloom
+Mawile
+Gliscor
+
+Team Option 40:
+Flygon
+Poliwrath
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Aerodactyl
+Mawile
+Camerupt
+
+Team Option 41:
+Flygon
+Poliwrath
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Aerodactyl
+Camerupt
+Metagross / Bronzong
+
+Team Option 42:
+Flygon
+Poliwrath
+Aerodactyl
+Girafarig
+Mawile
+Camerupt
+
+Team Option 43:
+Flygon
+Poliwrath
+Crobat
+Steelix
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+
+Team Option 44:
+Flygon
+Alakazam / Espeon / Grumpig
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 45:
+Flygon
+Tentacruel
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Mr.Mime / Gardevoir
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 46:
+Flygon
+Tentacruel
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Sableye / Spiritomb
+Mawile
+Gliscor
+
+Team Option 47:
+Flygon
+Tentacruel
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 48:
+Flygon
+Tentacruel
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Aggron / Bastiodon / Probopass
+Mismagius
+Gliscor
+
+Team Option 49:
+Flygon
+Tentacruel
+Mr.Mime / Gardevoir
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 50:
+Flygon
+Tentacruel
+Mr.Mime / Gardevoir
+Umbreon / Mightyena / Absol
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 51:
+Flygon
+Tentacruel
+Mr.Mime / Gardevoir
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Honchkrow
+
+Team Option 52:
+Flygon
+Tentacruel
+Gyarados
+Tyranitar
+Mawile
+Torterra
+
+Team Option 53:
+Flygon
+Tentacruel
+Gyarados
+Tyranitar
+Metagross / Bronzong
+Torterra
+
+Team Option 54:
+Flygon
+Tentacruel
+Gyarados
+Mawile
+Torterra
+Luxray
+
+Team Option 55:
+Flygon
+Tentacruel
+Gyarados
+Aggron / Bastiodon / Probopass
+Torterra
+Luxray
+
+Team Option 56:
+Flygon
+Tentacruel
+Gyarados
+Metagross / Bronzong
+Torterra
+Luxray
+
+Team Option 57:
+Flygon
+Tentacruel
+Omastar / Kabutops
+Shiftry / Cacturn
+Mawile
+Gliscor
+
+Team Option 58:
+Flygon
+Tentacruel
+Omastar / Kabutops
+Shiftry / Cacturn
+Metagross / Bronzong
+Gliscor
+
+Team Option 59:
+Flygon
+Tentacruel
+Aerodactyl
+Swampert / Gastrodon
+Sableye / Spiritomb
+Mawile
+
+Team Option 60:
+Flygon
+Tentacruel
+Feraligatr / Sharpedo / Crawdaunt
+Mawile
+Cradily
+Gliscor
+
+Team Option 61:
+Flygon
+Tentacruel
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Mismagius
+Gliscor
+
+Team Option 62:
+Flygon
+Tentacruel
+Feraligatr / Sharpedo / Crawdaunt
+Cradily
+Metagross / Bronzong
+Gliscor
+
+Team Option 63:
+Flygon
+Tentacruel
+Azumarill / Milotic
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 64:
+Flygon
+Tentacruel
+Umbreon / Mightyena / Absol
+Aggron / Bastiodon / Probopass
+Mismagius
+Gliscor
+
+Team Option 65:
+Flygon
+Tentacruel
+Girafarig
+Sableye / Spiritomb
+Mawile
+Gliscor
+
+Team Option 66:
+Flygon
+Tentacruel
+Tyranitar
+Ludicolo
+Mawile
+Gliscor
+
+Team Option 67:
+Flygon
+Tentacruel
+Tyranitar
+Ludicolo
+Metagross / Bronzong
+Gliscor
+
+Team Option 68:
+Flygon
+Tentacruel
+Swampert / Gastrodon
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Togekiss
+
+Team Option 69:
+Flygon
+Tentacruel
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Mismagius
+Honchkrow
+
+Team Option 70:
+Flygon
+Tentacruel
+Ludicolo
+Mawile
+Luxray
+Gliscor
+
+Team Option 71:
+Flygon
+Tentacruel
+Ludicolo
+Aggron / Bastiodon / Probopass
+Luxray
+Gliscor
+
+Team Option 72:
+Flygon
+Tentacruel
+Ludicolo
+Metagross / Bronzong
+Luxray
+Gliscor
+
+Team Option 73:
+Flygon
+Dewgong / Cloyster / Lapras / Walrein
+Aerodactyl
+Swampert / Gastrodon
+Mawile
+Toxicroak
+
+Team Option 74:
+Flygon
+Muk / Weezing
+Mr.Mime / Gardevoir
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 75:
+Flygon
+Muk / Weezing
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Mismagius
+Gliscor
+
+Team Option 76:
+Flygon
+Muk / Weezing
+Azumarill / Milotic
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 77:
+Flygon
+Gengar
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Feraligatr / Sharpedo / Crawdaunt
+Mawile
+Gliscor
+
+Team Option 78:
+Flygon
+Gengar
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Feraligatr / Sharpedo / Crawdaunt
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 79:
+Flygon
+Gengar
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 80:
+Flygon
+Gengar
+Aerodactyl
+Feraligatr / Sharpedo / Crawdaunt
+Swampert / Gastrodon
+Mawile
+
+Team Option 81:
+Flygon
+Gengar
+Feraligatr / Sharpedo / Crawdaunt
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 82:
+Flygon
+Gengar
+Feraligatr / Sharpedo / Crawdaunt
+Girafarig
+Mawile
+Gliscor
+
+Team Option 83:
+Flygon
+Gengar
+Feraligatr / Sharpedo / Crawdaunt
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Togekiss
+
+Team Option 84:
+Flygon
+Gengar
+Azumarill / Milotic
+Umbreon / Mightyena / Absol
+Aggron / Bastiodon / Probopass
+Gliscor
+
+Team Option 85:
+Flygon
+Gengar
+Azumarill / Milotic
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Honchkrow
+
+Team Option 86:
+Flygon
+Exeggutor
+Houndoom
+Aggron / Bastiodon / Probopass
+Empoleon
+Gliscor
+
+Team Option 87:
+Flygon
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 88:
+Flygon
+Kangaskhan / Tauros / Snorlax / Ursaring / Blissey / Slaking / Exploud / Delcatty / Zangoose / Ambipom / Purugly / Lickilicky / Porygon-Z
+Azumarill / Milotic
+Seviper / Skuntank / Drapion
+Metagross / Bronzong
+Gliscor
+
+Team Option 89:
+Flygon
+Mr.Mime / Gardevoir
+Gyarados
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+
+Team Option 90:
+Flygon
+Mr.Mime / Gardevoir
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Steelix
+Aggron / Bastiodon / Probopass
+
+Team Option 91:
+Flygon
+Mr.Mime / Gardevoir
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+
+Team Option 92:
+Flygon
+Gyarados
+Omastar / Kabutops
+Breloom
+Mawile
+Camerupt
+
+Team Option 93:
+Flygon
+Gyarados
+Omastar / Kabutops
+Mawile
+Seviper / Skuntank / Drapion
+Torterra
+
+Team Option 94:
+Flygon
+Gyarados
+Omastar / Kabutops
+Seviper / Skuntank / Drapion
+Metagross / Bronzong
+Torterra
+
+Team Option 95:
+Flygon
+Gyarados
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Claydol
+
+Team Option 96:
+Flygon
+Gyarados
+Houndoom
+Breloom
+Mawile
+Aggron / Bastiodon / Probopass
+
+Team Option 97:
+Flygon
+Gyarados
+Houndoom
+Breloom
+Aggron / Bastiodon / Probopass
+Metagross / Bronzong
+
+Team Option 98:
+Flygon
+Gyarados
+Houndoom
+Mawile
+Aggron / Bastiodon / Probopass
+Torterra
+
+Team Option 99:
+Flygon
+Gyarados
+Houndoom
+Aggron / Bastiodon / Probopass
+Metagross / Bronzong
+Torterra
+
+Team Option 100:
+Flygon
+Gyarados
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Mismagius
+
+Team Option 101:
+Flygon
+Gyarados
+Shiftry / Cacturn
+Mawile
+Aggron / Bastiodon / Probopass
+Camerupt
+
+Team Option 102:
+Flygon
+Gyarados
+Shiftry / Cacturn
+Aggron / Bastiodon / Probopass
+Camerupt
+Metagross / Bronzong
+
+Team Option 103:
+Flygon
+Gyarados
+Breloom
+Mawile
+Aggron / Bastiodon / Probopass
+Camerupt
+
+Team Option 104:
+Flygon
+Omastar / Kabutops
+Crobat
+Swampert / Gastrodon
+Sableye / Spiritomb
+Mawile
+
+Team Option 105:
+Flygon
+Omastar / Kabutops
+Ludicolo
+Mawile
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 106:
+Flygon
+Omastar / Kabutops
+Ludicolo
+Seviper / Skuntank / Drapion
+Metagross / Bronzong
+Gliscor
+
+Team Option 107:
+Flygon
+Aerodactyl
+Azumarill / Milotic
+Swampert / Gastrodon
+Seviper / Skuntank / Drapion
+Metagross / Bronzong
+
+Team Option 108:
+Flygon
+Aerodactyl
+Azumarill / Milotic
+Camerupt
+Metagross / Bronzong
+Lopunny
+
+Team Option 109:
+Flygon
+Aerodactyl
+Blaziken / Infernape
+Mawile
+Torterra
+Empoleon
+
+Team Option 110:
+Flygon
+Aerodactyl
+Ludicolo
+Mawile
+Camerupt
+Lucario
+
+Team Option 111:
+Flygon
+Meganium
+Houndoom
+Aggron / Bastiodon / Probopass
+Empoleon
+Gliscor
+
+Team Option 112:
+Flygon
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Steelix
+Aggron / Bastiodon / Probopass
+Medicham / Gallade
+
+Team Option 113:
+Flygon
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Steelix
+Aggron / Bastiodon / Probopass
+Mismagius
+
+Team Option 114:
+Flygon
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Mismagius
+
+Team Option 115:
+Flygon
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Mawile
+Aggron / Bastiodon / Probopass
+Claydol
+
+Team Option 116:
+Flygon
+Feraligatr / Sharpedo / Crawdaunt
+Crobat
+Aggron / Bastiodon / Probopass
+Claydol
+Lucario
+
+Team Option 117:
+Flygon
+Noctowl / Xatu
+Azumarill / Milotic
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+
+Team Option 118:
+Flygon
+Crobat
+Azumarill / Milotic
+Girafarig
+Aggron / Bastiodon / Probopass
+Electivire
+
+Team Option 119:
+Flygon
+Crobat
+Azumarill / Milotic
+Steelix
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+
+Team Option 120:
+Flygon
+Crobat
+Azumarill / Milotic
+Tyranitar
+Swampert / Gastrodon
+Metagross / Bronzong
+
+Team Option 121:
+Flygon
+Crobat
+Azumarill / Milotic
+Swampert / Gastrodon
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+
+Team Option 122:
+Flygon
+Crobat
+Azumarill / Milotic
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Luxray
+
+Team Option 123:
+Flygon
+Crobat
+Azumarill / Milotic
+Swampert / Gastrodon
+Metagross / Bronzong
+Luxray
+
+Team Option 124:
+Flygon
+Crobat
+Swampert / Gastrodon
+Sableye / Spiritomb
+Mawile
+Aggron / Bastiodon / Probopass
+
+Team Option 125:
+Flygon
+Crobat
+Swampert / Gastrodon
+Sableye / Spiritomb
+Aggron / Bastiodon / Probopass
+Lucario
+
+Team Option 126:
+Flygon
+Crobat
+Ludicolo
+Mawile
+Aggron / Bastiodon / Probopass
+Camerupt
+
+Team Option 127:
+Flygon
+Azumarill / Milotic
+Girafarig
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Gliscor
+
+Team Option 128:
+Flygon
+Azumarill / Milotic
+Swampert / Gastrodon
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Drifblim
+
+Team Option 129:
+Flygon
+Azumarill / Milotic
+Aggron / Bastiodon / Probopass
+Seviper / Skuntank / Drapion
+Banette / Dusknoir
+Gliscor
+
+Team Option 130:
+Flygon
+Ludicolo
+Mawile
+Aggron / Bastiodon / Probopass
+Camerupt
+Honchkrow
+
+Team Option 131:
+Flygon
+Ludicolo
+Aggron / Bastiodon / Probopass
+Camerupt
+Metagross / Bronzong
+Honchkrow

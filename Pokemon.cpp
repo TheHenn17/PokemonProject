@@ -1,27 +1,28 @@
-#include<iostream>
-#include<fstream>
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
-const double TYPECHART[17][17] = {1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5, 0.0, 1.0, 1.0, 0.5,
-                                  1.0, 0.5, 0.5, 1.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 0.5, 1.0, 2.0,
-                                  1.0, 2.0, 0.5, 1.0, 0.5, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0, 1.0,
-                                  1.0, 1.0, 2.0, 0.5, 0.5, 1.0, 1.0, 1.0, 0.0, 2.0, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0,
-                                  1.0, 0.5, 2.0, 1.0, 0.5, 1.0, 1.0, 0.5, 2.0, 0.5, 1.0, 0.5, 2.0, 1.0, 0.5, 1.0, 0.5,
-                                  1.0, 0.5, 0.5, 1.0, 2.0, 0.5, 1.0, 1.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5,
-                                  2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0, 0.5, 0.5, 0.5, 2.0, 0.0, 1.0, 2.0, 2.0,
-                                  1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 0.5, 0.5, 1.0, 1.0, 1.0, 0.5, 0.5, 1.0, 1.0, 0.0,
-                                  1.0, 2.0, 1.0, 2.0, 0.5, 1.0, 1.0, 2.0, 1.0, 0.0, 1.0, 0.5, 2.0, 1.0, 1.0, 1.0, 2.0,
-                                  1.0, 1.0, 1.0, 0.5, 2.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 1.0, 1.0, 0.5,
-                                  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 0.0, 0.5,
-                                  1.0, 0.5, 1.0, 1.0, 2.0, 1.0, 0.5, 0.5, 1.0, 0.5, 2.0, 1.0, 1.0, 0.5, 1.0, 2.0, 0.5,
-                                  1.0, 2.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 0.5, 2.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 0.5,
-                                  0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 2.0, 1.0, 0.5, 0.5,
-                                  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5,
-                                  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 2.0, 1.0, 0.5, 0.5,
-                                  1.0, 0.5, 0.5, 0.5, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 0.5};
+const double TYPECHART[18][18] = {1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5, 0.0, 1.0, 1.0, 0.5, 1.0,
+                                  1.0, 0.5, 0.5, 1.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 0.5, 1.0, 2.0, 1.0,
+                                  1.0, 2.0, 0.5, 1.0, 0.5, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0, 1.0, 1.0,
+                                  1.0, 1.0, 2.0, 0.5, 0.5, 1.0, 1.0, 1.0, 0.0, 2.0, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0,
+                                  1.0, 0.5, 2.0, 1.0, 0.5, 1.0, 1.0, 0.5, 2.0, 0.5, 1.0, 0.5, 2.0, 1.0, 0.5, 1.0, 0.5, 1.0,
+                                  1.0, 0.5, 0.5, 1.0, 2.0, 0.5, 1.0, 1.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0,
+                                  2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0, 0.5, 0.5, 0.5, 2.0, 0.0, 1.0, 2.0, 2.0, 0.5,
+                                  1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 0.5, 0.5, 1.0, 1.0, 1.0, 0.5, 0.5, 1.0, 1.0, 0.0, 2.0,
+                                  1.0, 2.0, 1.0, 2.0, 0.5, 1.0, 1.0, 2.0, 1.0, 0.0, 1.0, 0.5, 2.0, 1.0, 1.0, 1.0, 2.0, 1.0,
+                                  1.0, 1.0, 1.0, 0.5, 2.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 1.0, 1.0, 0.5, 1.0,
+                                  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 0.0, 0.5, 1.0,
+                                  1.0, 0.5, 1.0, 1.0, 2.0, 1.0, 0.5, 0.5, 1.0, 0.5, 2.0, 1.0, 1.0, 0.5, 1.0, 2.0, 0.5, 0.5,
+                                  1.0, 2.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 0.5, 2.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0,
+                                  0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0, 1.0,
+                                  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.5, 0.0,
+                                  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 2.0, 1.0, 0.5, 1.0, 0.5,
+                                  1.0, 0.5, 0.5, 0.5, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 0.5, 2.0,
+                                  1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 2.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 0.5, 1.0};
 
-const double calcTime = 0.000002858;
+const double calcTime = 0;
 
 struct pokemon {
         string name;
@@ -76,18 +77,18 @@ int main(int argc, char** argv) {
 	}
         double** tables = new double*[totalCombos];
         for(i = 0; i < totalCombos; i++) {
-                tables[i] = new double[17];
+                tables[i] = new double[18];
         }
         for(tc = T_head; tc != 0; tc = tc->next) {
                 type1 = IND(tc->type1);
                 type2 = IND(tc->type2);
                 if(type2 < 0) {
-                        for(i = 0; i < 17; i++) {
+                        for(i = 0; i < 18; i++) {
                                 tables[tc->ind][i] = TYPECHART[i][type1];
                         }
                 }
                 else {
-                        for(i = 0; i < 17; i++) {
+                        for(i = 0; i < 18; i++) {
                                 tables[tc->ind][i] = TYPECHART[i][type1]*TYPECHART[i][type2];
                         }
                 }
@@ -753,13 +754,13 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
 	int total = 0;
 	int type1, type2, i, num1;
 	double value;
-	int resistChart[17] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-	int weaknessChart[17] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-	int coverageChart[17] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int resistChart[18] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int weaknessChart[18] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int coverageChart[18] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 	curTable = tables[tc1->ind];
 	type1 = IND(tc1->type1);
 	type2 = IND(tc1->type2);
-	for(i = 0; i < 17; i++) {
+	for(i = 0; i < 18; i++) {
 		value = curTable[i];
 		if(value == 0.0) { resistChart[i] += 1; }
 		if(value == 0.5) { resistChart[i] += 1; }
@@ -772,7 +773,7 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
 	curTable = tables[tc2->ind];
         type1 = IND(tc2->type1);
         type2 = IND(tc2->type2);
-        for(i = 0; i < 17; i++) {
+        for(i = 0; i < 18; i++) {
                 value = curTable[i];
                 if(value == 0.0) { resistChart[i] += 1; }
                 if(value == 0.5) { resistChart[i] += 1; }
@@ -785,7 +786,7 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
 	curTable = tables[tc3->ind];
         type1 = IND(tc3->type1);
         type2 = IND(tc3->type2);
-        for(i = 0; i < 17; i++) {
+        for(i = 0; i < 18; i++) {
                 value = curTable[i];
                 if(value == 0.0) { resistChart[i] += 1; }
                 if(value == 0.5) { resistChart[i] += 1; }
@@ -798,7 +799,7 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
 	curTable = tables[tc4->ind];
         type1 = IND(tc4->type1);
         type2 = IND(tc4->type2);
-        for(i = 0; i < 17; i++) {
+        for(i = 0; i < 18; i++) {
                 value = curTable[i];
                 if(value == 0.0) { resistChart[i] += 1; }
                 if(value == 0.5) { resistChart[i] += 1; }
@@ -811,7 +812,7 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
 	curTable = tables[tc5->ind];
         type1 = IND(tc5->type1);
         type2 = IND(tc5->type2);
-        for(i = 0; i < 17; i++) {
+        for(i = 0; i < 18; i++) {
                 value = curTable[i];
                 if(value == 0.0) { resistChart[i] += 1; }
                 if(value == 0.5) { resistChart[i] += 1; }
@@ -824,7 +825,7 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
 	curTable = tables[tc6->ind];
         type1 = IND(tc6->type1);
         type2 = IND(tc6->type2);
-        for(i = 0; i < 17; i++) {
+        for(i = 0; i < 18; i++) {
                 value = curTable[i];
                 if(value == 0.0) { resistChart[i] += 1; }
                 if(value == 0.5) { resistChart[i] += 1; }
@@ -834,7 +835,7 @@ int calc(typeCombo* tc1, typeCombo* tc2, typeCombo* tc3, typeCombo* tc4, typeCom
                 if(TYPECHART[type1][i] == 2.0) { coverageChart[i] = 1; }
                 if(type2 < 0 && TYPECHART[type2][i] == 2.0) { coverageChart[i] = 1; }
         }
-	for(i = 0; i < 17; i++) {
+	for(i = 0; i < 18; i++) {
 		num1 = (resistChart[i]-weaknessChart[i]);
 		if(num1 < 0) { total += (coverageChart[i]+num1); }
 		else { total += coverageChart[i]; }
@@ -860,6 +861,7 @@ int IND(string type) {
 	if(type == "dragon") { return 14; }
 	if(type == "dark") { return 15; }
 	if(type == "steel") { return 16; }
+        if(type == "fairy") { return 17; }
 	return -1;
 }
 
@@ -881,6 +883,7 @@ string TYPE(int ind) {
 	if(ind == 14) { return "dragon"; }
 	if(ind == 15) { return "dark"; }
 	if(ind == 16) { return "steel"; }
+        if(ind == 17) { return "fairy"; }
 	return "NULL";
 }
 

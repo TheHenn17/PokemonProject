@@ -1,26 +1,18 @@
-Venusaur grass poison
-Charizard fire flying
+Venusaur grass poison 
+Charizard fire dragon
 Blastoise water
-Butterfree bug flying
-Beedrill bug poison
 Pidgeot normal flying
-Raticate normal
 Fearow normal flying
-Arbok poison
-Raichu electric
-Sandslash ground
 Nidoqueen poison ground
 Nidoking poison ground
-Clefable normal
-Ninetales fire
-Wigglytuff normal
+Clefable fairy
+Ninetales fire fairy
+Wigglytuff normal fairy
 Vileplume grass poison
 Parasect bug grass
 Venomoth bug poison
 Dugtrio ground
-Persian normal
-Golduck water
-Primeape fighting
+Golduck water psychic
 Arcanine fire
 Poliwrath water fighting
 Alakazam psychic
@@ -28,15 +20,13 @@ Machamp fighting
 Victreebel grass poison
 Tentacruel water poison
 Golem rock ground
-Rapidash fire
 Slowbro psychic water
-Farfetch'd normal flying
+Farfetch'd fighting flying
 Dodrio normal flying
 Dewgong water ice
 Muk poison
 Cloyster water ice
 Gengar poison ghost
-Hypno psychic
 Kingler water
 Electrode electric
 Exeggutor grass psychic
@@ -45,9 +35,8 @@ Hitmonlee fighting
 Hitmonchan fighting
 Weezing poison
 Kangaskhan normal
-Seaking water
 Starmie water psychic
-Mr.Mime psychic
+Mr.Mime psychic fairy
 Jynx psychic ice
 Pinsir bug
 Tauros normal
@@ -61,62 +50,45 @@ Kabutops water rock
 Aerodactyl rock flying
 Snorlax normal
 Dragonite dragon flying
-Meganium grass
+Meganium grass fairy
 Typhlosion fire
-Feraligatr water
-Furret normal
-Noctowl normal flying
-Ledian bug flying
-Ariados bug poison
+Feraligatr water dark
+Noctowl psychic flying
 Crobat poison flying
 Lanturn water electric
 Xatu psychic flying
-Ampharos electric
+Ampharos electric dragon
 Bellossom grass
-Azumarill water
+Azumarill water fairy
 Sudowoodo rock
 Politoad water
 Jumpluff grass flying
-Sunflora grass
-Quagsire water ground
 Espeon psychic
 Umbreon dark
 Slowking psychic water
-Wobbuffet psychic
 Girafarig psychic normal
 Forretress bug steel
 Steelix steel ground
-Granbull normal
+Granbull fairy
 Scizor steel bug
-Shuckle rock bug
 Heracross bug fighting
 Ursaring normal
 Magcargo rock fire
-Octillery water
-Delibird ice flying
 Skarmory steel flying
 Houndoom dark fire
 Kingdra water dragon
 Donphan ground
-Stantler normal
-Smeargle normal
 Hitmontop fighting
-Miltank normal
 Blissey normal
 Tyranitar rock dark
-Sceptile grass
+Sceptile grass dragon
 Blaziken fire fighting
 Swampert water ground
 Mightyena dark
-Linoone normal
-Beautifly bug flying
-Dustox bug poison
 Ludicolo grass water
 Shiftry grass dark
 Swellow normal flying
-Pelipper water flying
-Gardevoir psychic
-Masquerain bug flying
+Gardevoir psychic fairy
 Breloom grass fighting
 Slaking normal
 Ninjask bug flying
@@ -125,89 +97,66 @@ Exploud normal
 Hariyama fighting
 Delcatty normal
 Sableye ghost dark
-Mawile steel
+Mawile steel fairy
 Aggron rock steel
 Medicham psychic fighting
 Manetric electric
-Volbeat bug
-Illumise bug
-Swalot poison
 Sharpedo dark water
 Wailord water
 Camerupt fire ground
 Torkoal fire
 Grumpig psychic
-Spinda normal
-Flygon dragon ground
+Flygon dragon bug
 Cacturn dark grass
-Altaria dragon flying
+Altaria dragon fairy
 Zangoose normal
-Seviper poison
-Lunatone rock psychic
-Solrock rock psychic
-Whiscash water ground
+Seviper poison dark
 Crawdaunt water dark
 Claydol ground psychic
 Cradily grass rock
 Armaldo rock bug
-Milotic water
-Castform normal
-Kecleon normal
+Milotic water fairy
 Banette ghost
 Tropius grass flying
-Chimecho psychic
 Absol dark
-Glalie ice
+Glalie ice rock
 Walrein water ice
-Huntail water
-Gorebyss water
-Relicanth rock water
-Luvdisc water
 Salamence dragon flying
 Metagross steel psychic
 Torterra grass ground
 Infernape fire fighting
 Empoleon water steel
 Staraptor normal flying
-Bibarel water normal
-Kricketune bug
-Luxray electric
+Luxray electric dark
 Roserade grass poison
 Rampardos rock
 Bastiodon rock steel
-Wormadam grass bug
-Mothim bug flying
 Vespiquen bug flying
-Pachirisu electric
 Floatzel water
-Cherrim grass
 Gastrodon water ground
 Ambipom normal
 Drifblim ghost flying
-Lopunny normal
-Mismagius ghost
+Lopunny normal fighting
+Mismagius ghost fairy
 Honchkrow dark flying
 Purugly normal
 Skuntank poison dark
 Bronzong steel psychic
-Chatot normal flying
 Spiritomb dark ghost
 Garchomp dragon ground
 Lucario steel fighting
 Hippowdon ground
 Drapion poison dark
 Toxicroak poison fighting
-Carnivine grass
-Lumineon water
 Abomasnow ice grass
 Weavile dark ice
 Magnezone steel electric
 Lickilicky normal
 Rhyperior rock ground
 Tangrowth grass
-Electivire electric
+Electivire electric fighting
 Magmortar fire
-Togekiss normal flying
+Togekiss fairy flying
 Yanmega bug flying
 Leafeon grass
 Glaceon ice
@@ -218,72 +167,3 @@ Gallade psychic fighting
 Probopass rock steel
 Dusknoir ghost
 Froslass ice ghost
-Serperior grass
-Emboar fire fighting
-Samurott water
-Watchog normal
-Stoutland normal
-Liepard dark
-Simisage grass
-Simisear fire
-Simipour water
-Musharna psychic
-Unfezant normal flying
-Zebstrika electric
-Gigalith rock
-Swoobat psychic flying
-Excadrill ground steel
-Conkeldurr fighting
-Seismitoad water ground
-Throh fighting
-Sawk fighting
-Leavanny bug grass
-Scolipede bug poison
-Whimsicott grass
-Lilligant grass
-Basculin water
-Krookodile dark ground
-Darmanitan fire
-Darmanitan-Z fire psychic
-Maractus grass
-Crustle rock bug
-Scrafty dark fighting
-Sigilyph psychic flying
-Cofagrigus ghost
-Carracosta water rock
-Archeops rock flying
-Garbodor poison
-Zoroark dark
-Cinccino normal
-Gothitelle psychic
-Reuniclus psychic
-Swanna water flying
-Vanilluxe ice
-Sawsbuck normal grass
-Emolga electric flying
-Escavalier bug steel
-Amoongus grass poison
-Jellicent water ghost
-Alomomola water
-Galvantula electric bug
-Ferrothorn steel grass
-Klinklang steel
-Electross electric
-Beheeyem psychic
-Chandelure ghost fire
-Haxorus dragon
-Beartic ice
-Cryogonal ice
-Accelgor bug
-Stunfisk ground electric
-Mienshao fighting
-Druddigon dragon
-Golurk ghost ground
-Bisharp dark steel
-Bouffalant normal
-Braviary normal flying
-Mandibuzz dark flying
-Heatmor fire
-Durant bug steel
-Hydreigon dark dragon
-Volcarona fire bug
